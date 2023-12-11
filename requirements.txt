@@ -4,4 +4,4 @@ plotly_express
 numpy
 streamlit-extras
 openpyxl
-sqlite3
+sqlite3==2.6.0
