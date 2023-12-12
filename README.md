@@ -24,4 +24,4 @@ https://estudo-suicidios-2014-2018.streamlit.app/
 A aplicação permite interagir com gráficos e visualizações criados durante a análise.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT 
